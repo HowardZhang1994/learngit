@@ -1,2 +1,3 @@
-add new line
-Git has mutable index called stage.
+<<<<<<< HEAD
+fix conflict
+>>>>>>> feature1
